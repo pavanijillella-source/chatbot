@@ -1,0 +1,49 @@
+%[hello hi hey]
+    Hello!
+    Hi there!
+    Hey! How can I help you?
+
+%[how are you]
+    I am doing great. What about you?
+
+%[i am fine]
+    Nice to hear that.
+
+%[what is python]
+    Python is a high-level programming language used for AI, web development, automation, and more.
+
+%[what is java]
+    Java is an object-oriented programming language widely used for software development.
+
+%[what is html]
+    HTML is used to structure webpages.
+
+%[what is css]
+    CSS is used for styling webpages.
+
+%[what is javascript]
+    JavaScript is used to add interactivity to websites.
+
+%[what is ai]
+    AI stands for Artificial Intelligence.
+
+%[what is machine learning]
+    Machine Learning is a branch of AI where systems learn from data.
+
+%[how to prepare for placements]
+    Practice aptitude, DSA, communication skills, projects, and mock interviews regularly.
+
+%[what is oops]
+    OOPS stands for Object Oriented Programming System.
+
+%[what is dsa]
+    DSA means Data Structures and Algorithms.
+
+%[tell me the time]
+    ~timeNow
+
+%[who is *]
+    ~whoIs <star>
+
+%[bye exit quit]
+    Goodbye! Have a great day.
